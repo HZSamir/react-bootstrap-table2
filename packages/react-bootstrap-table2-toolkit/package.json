@@ -19,6 +19,9 @@
   ],
   "author": "AllenFang",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "react",
     "bootstrap",
@@ -47,5 +50,5 @@
   "dependencies": {
     "file-saver": "^2.0.5"
   },
-  "gitHead": "16966f95597f0e738ce717c1fec1be768b385248"
+  "gitHead": "3b15cf4a6976674359b2f7fd634a243e02d246e7"
 }

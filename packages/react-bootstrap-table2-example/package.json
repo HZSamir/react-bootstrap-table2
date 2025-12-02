@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "prop-types": "^15.8.1",
     "react": "^16.4.0",
@@ -31,5 +34,6 @@
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
-  }
+  },
+  "gitHead": "3b15cf4a6976674359b2f7fd634a243e02d246e7"
 }

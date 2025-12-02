@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HZSamir/react-bootstrap-table2.git"
@@ -44,5 +47,5 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
-  "gitHead": "16966f95597f0e738ce717c1fec1be768b385248"
+  "gitHead": "3b15cf4a6976674359b2f7fd634a243e02d246e7"
 }
